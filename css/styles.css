@@ -1,3 +1,12 @@
-.highlight {
-  color: yellow;
+.column {
+  float: left;
+}
+
+img{
+  float: center;
+}
+
+.intro  {
+  font-style: italic;
+  font-weight: lighter;
 }
